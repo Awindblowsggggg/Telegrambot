@@ -4,7 +4,6 @@ astroid==2.15.8
 audiostream==0.2
 certifi==2025.1.31
 cffi==1.16.0
-cmake @ file:///home/n0n3m4/Desktop/Pydroid/zBuildPrepared/cmake-3.26.4-py3-none-any.whl#sha256=695389dbf5c0aa220776821172e2f03865e0fe9ba10d7459373597d21af6643e
 dill==0.3.7
 distro==1.8.0
 h11==0.14.0
